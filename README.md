@@ -1,8 +1,3 @@
-
-<p align="center">
-  <img src="https://github.com/calvinguyen/calvinguyen/blob/main/media/ShreknFiona.png" width="400" height="700">
-</p>
-
 <p align="center">
   <a href="https://github.com/calvinguyen/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=calvinguyen&hide=stars,issues&count_private=true&show_icons=true&theme=vue-dark" />
