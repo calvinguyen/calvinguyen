@@ -11,7 +11,7 @@
 </p>
 
 ***
-
+<!-- 
 <h2 align="center"> About me: </h2>
 
 ```
@@ -61,3 +61,4 @@ Beginner in:
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+-->
